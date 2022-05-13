@@ -16,7 +16,8 @@ Agreeable, Easy to utilize, Fast and exactness activity, Easy transportation
 
 ### Weakness
 
-High cost
+High cost,the wiper does not stop in the middle of the window during drive.
+
 
 ### Opportunities
 
