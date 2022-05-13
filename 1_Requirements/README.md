@@ -21,11 +21,12 @@ High cost,the wiper does not stop in the middle of the window during drive.
 
 ### Opportunities
 
-It is  a Advance System.
+It is an advanced System.
 
 ### Threat
 
-Need to be Very Careful Using it 
+Once the board repaired cannot be replaced quickly
+
 
 ## 4W's and 1'H:
 
