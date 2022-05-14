@@ -17,3 +17,5 @@
 [![Build CI - Windows](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Build-Windows.yml/badge.svg)](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Build-Windows.yml)
 ## Build Linux
 [![Build CI -Linux](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Build_Linux.yml)
+## Git Inspector
+[![Contribution Check - Git Inspector](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Git_Inspector.yml)
