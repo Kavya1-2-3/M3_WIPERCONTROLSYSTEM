@@ -15,3 +15,5 @@
 [![Analysis](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Analysis.yml)
 ## Build Windows
 [![Build CI - Windows](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Build-Windows.yml/badge.svg)](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Build-Windows.yml)
+## Build Linux
+[![Build CI -Linux](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Build_Linux.yml)
