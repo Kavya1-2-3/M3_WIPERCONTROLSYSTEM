@@ -21,3 +21,5 @@
 [![Contribution Check - Git Inspector](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Git_Inspector.yml)
 ## Unit Testing
 [![Unit testing](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Unit_Testing.yml/badge.svg)](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Unit_Testing.yml)
+## Valgrind
+[![Valgrind](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Kavya1-2-3/M3_WIPERCONTROLSYSTEM/actions/workflows/Valgrind.yml)
